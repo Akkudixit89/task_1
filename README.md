@@ -8,7 +8,7 @@ understand network exposure.
 3. IP Range (Dash Notation)
 4. CIDR Notation (Subnet Scan)
 5. Input from a File (Target List)
-<br>
+
 # SCAN TECHNIQUES
 1. tcp connect scan (-sT)
 2. tcp syn scan (-sS)
@@ -18,6 +18,6 @@ understand network exposure.
 6. ping scan (-sP)
 7. udp scan (-sU)
 8. ack scan (-sA)
-<br>
+
 # Os detection 
 nmap -O 192.168.1.0/24
