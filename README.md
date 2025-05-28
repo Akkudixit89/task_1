@@ -19,5 +19,5 @@ understand network exposure.<br>
 7. udp scan (-sU)
 8. ack scan (-sA)
 
-# Os detection 
-(nmap -O 192.168.1.0/24)
+# Os detection
+nmap -O 192.168.1.0/24
