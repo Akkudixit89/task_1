@@ -1,6 +1,6 @@
 # Task_1
 **OBJECTIVE** : Learn to discover open ports on devices in your local network to
-understand network exposure.
+understand network exposure.<br>
 **TOOLS** : Nmap
 # Mentioning  targets in Nmap:
 1. Single IP Address or Hostname
